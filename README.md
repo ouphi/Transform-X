@@ -1,5 +1,4 @@
 # Transform-X
-# Transform-X
 
 
 Transform X is a small and low cost 4-leg robot. It consists of very simple shapes which can be easily 3D printed with FDM printers. 
@@ -17,5 +16,5 @@ Trasform X is ideal to start manipulating robots and learn robotic without diffi
 
 # Build your own Transform-X
 
-
+You can find the complete **Bill Of Material** needed to build a Poppy Ergo Jr [here](doc/bom.md)
 
