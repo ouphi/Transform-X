@@ -10,11 +10,11 @@ GIF DU ROBOT EN MOUVEMENT
 
 
 
-Trasform X is ideal to start manipulating robots and learn robotic without difficulties. It is particularly well suited for educational purposes (cheap, simple to assemble, and easily controllable).
+Transform X is ideal to start manipulating robots and learn robotic without difficulties. It is particularly well suited for educational purposes (cheap, simple to assemble, and easily controllable).
 
 
 
 # Build your own Transform-X
 
-You can find the complete **Bill Of Material** needed to build a Poppy Ergo Jr [here](doc/bom.md)
+You can find the complete **Bill Of Material** needed to build a TransformX [here](doc/bom.md)
 
